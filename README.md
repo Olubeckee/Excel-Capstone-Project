@@ -48,5 +48,5 @@ An overview of the dataset is shown below;
 It is often said that generally Data Scientists/Data Analysst tend to spend 70% of the project time on data preprocessing , exploring the data and various treatment.
 
 - Data Preparation
-In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is I converted the data set into a Table so as to make it easier to work with and also to create Pivot Tables and Chart. i Renamed the table as > sales
+In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is I converted the data set into a Table so as to make it easier to work with and also to create Pivot Tables and Chart. i Renamed the table as >sales
 
