@@ -11,7 +11,7 @@ Tool(s) used: Microsoft Excel and Power Point
 # Introduction
 Kultra Mega Stores (KMS) specializes in office supplies and furniture. The company's customers range from individual consumers and small businesses (retail), to corporate organizations (wholesale) located in the LAGOS, Nigeria. As a Business Analyst I am Expected to carry out Analysis into the Order Data of the Company and to communicate my insight to the Management to make Informed Decision
 
-#The Business Solution
+# The Business Solution
 For this case study my final report in Power Point will make the Management make their decisions by evaluating the following;
 - Which product category had the highest sales?
 - What are the Top 3 and Bottom 3 Regions with regards to 
@@ -25,3 +25,23 @@ sales?
 - Which Corporate Customer placed the most number of orders in 2009 – 2012? How many orders were placed by the Corporate customer?
 - Which consumer customer was the most profitable one?
 - Which customer returned items and what segment do they belong.
+
+## The Approach
+I followed this approach in modelling the solution above for the business challenge:
+
+Business Understanding
+Data Preparation
+Data Exploration & Analysis
+Data Visualization
+Business Recommendation
+
+## Business Understanding
+The Goal of the case Study is carry out a Business Intelligence Analysis into the Company Order Data. A grasp understanding of the problem to be solved drive the whole analysis to be done.
+
+## Data Preparation
+A Microsoft Excel Worksheet (xlsv) dataset which contains the Orders from 2009 to 2012 was provided for analysis consisting of 8400 rows and 18 columns. Other information provided include Customer Name, Returned Item and Users
+An overview of the dataset is shown below;
+![Screenshot (108)](https://user-images.githubusercontent.com/96060060/174450841-353cc5ce-b4e1-4d41-802d-8455cccacf40.png)
+
+
+
