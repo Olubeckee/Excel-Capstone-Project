@@ -41,7 +41,12 @@ The Goal of the case Study is carry out a Business Intelligence Analysis into th
 ## Data Preparation
 A Microsoft Excel Worksheet (xlsv) dataset which contains the Orders from 2009 to 2012 was provided for analysis consisting of 8400 rows and 18 columns. Other information provided include Customer Name, Returned Item and Users
 An overview of the dataset is shown below;
+
 ![Screenshot (108)](https://user-images.githubusercontent.com/96060060/174450841-353cc5ce-b4e1-4d41-802d-8455cccacf40.png)
 
+# DATA PREPARATION
+It is often said that generally Data Scientists/Data Analysst tend to spend 70% of the project time on data preprocessing , exploring the data and various treatment.
 
+- Data Preparation
+In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is I converted the data set into a Table so as to make it easier to work with and also to create Pivot Tables and Chart. i Renamed the table as > sales
 
