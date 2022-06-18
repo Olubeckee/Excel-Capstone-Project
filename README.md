@@ -48,5 +48,71 @@ An overview of the dataset is shown below;
 It is often said that generally Data Scientists/Data Analysst tend to spend 70% of the project time on data preprocessing , exploring the data and various treatment.
 
 - Data Preparation
-In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is I converted the data set into a Table so as to make it easier to work with and also to create Pivot Tables and Chart. i Renamed the table as >sales
+In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is I converted the data set into a Table so as to make it easier to work with and also to create Pivot Tables and Chart. I Renamed the table as *sales*
+
+## Exploratory Data Analysis (EDA)
+
+*If you torture the data long enough, it will confess to anything*
+
+~ Ronald Coase
+
+After cleaning the data and preparing it, Exploratory Data Analysis (EDA) was then performed on the data to gather insights that will be useful help the Management  make Informed decision About the Business Problem
+
+## Insights from the analysis
+
+In order for management to make the best decision as Regards the Business Problem,  I have summarized below some key Insights which will guide the management in the next step to take.
+
+1. Product Category With Highest sales
+
+![Screenshot (109)](https://user-images.githubusercontent.com/96060060/174452398-bc62dc85-0aa1-4ae2-bcc1-4093c8c74345.png)
+
+2. Top 3 and Bottom 3 Regions with regards to sales?
+
+![Screenshot (110)](https://user-images.githubusercontent.com/96060060/174452475-49c23142-0acb-4544-b55b-517ce19b66f6.png)
+
+3. Total sales of appliances in Ontario?
+
+![Screenshot (111)](https://user-images.githubusercontent.com/96060060/174452557-5e99cb1c-f94a-4dd6-83ff-ce426bd04b6c.png)
+
+4. Advise the management of KMS on what to to do to increase the revenue from the bottom 10 customers
+
+![Screenshot (112)](https://user-images.githubusercontent.com/96060060/174452642-7e99a908-f4de-4238-b066-6f05a5455443.png)
+
+The Product Category these Bottom 10 Customers Purchased is Office Supplies. The management should increase the Advertisement Rate of Several Product Categories to the Customers. This will increase the number of sales
+
+5. KMS incurred the most shipping cost using which shipping method?
+
+![Screenshot (113)](https://user-images.githubusercontent.com/96060060/174452975-7e44b709-b3ab-4c8f-a615-c27159a8e096.png)
+
+6. Who are the most valuable customers and what do they purchase?
+
+![Screenshot (114)](https://user-images.githubusercontent.com/96060060/174453053-a11583e3-3eed-4eb1-a3ed-5c91a7f662a2.png)
+
+7. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
+
+![Screenshot (115)](https://user-images.githubusercontent.com/96060060/174453184-d6d75a01-e56d-4a95-8fe2-3114c88781b3.png)
+
+8. Which small business customer had the highest sales?
+
+![Screenshot (116)](https://user-images.githubusercontent.com/96060060/174453255-fbb2a307-0e9b-4cec-83b2-6cb7b55bd087.png)
+
+9. Which Corporate Customer placed the most number of orders in 2009 – 2012? How many orders were placed by the Corporate customer
+
+![image](https://user-images.githubusercontent.com/96060060/174453321-b782f3b3-ef74-430c-af71-e9ea6f8fbf8d.png)
+
+10.  Which consumer customer was the most profitable one?
+
+![Screenshot (118)](https://user-images.githubusercontent.com/96060060/174454221-5396ffae-fa17-4dfd-9322-774591ff680e.png)
+
+11. Which customer returned items and what segment do they belong
+
+![Screenshot (119)](https://user-images.githubusercontent.com/96060060/174454391-bdf8ca35-2141-4d54-9c3a-62994a327650.png)
+
+
+
+
+
+
+
+
 
