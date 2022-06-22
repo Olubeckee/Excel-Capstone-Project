@@ -112,7 +112,7 @@ The Product Category these Bottom 10 Customers Purchased is Office Supplies. The
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/96060060/174454391-bdf8ca35-2141-4d54-9c3a-62994a327650.png)
 
-# DATA VISUALIZATIN
+# DATA VISUALIZATION
 
 I created Report using Microsoft Power Point via the data visualization I created using Microsoft Excel to communicate effectively this insights generated to the management of Kultra Mega Store company by taking into consideration the techniques and steps involved in data visualization. To get the whole visualization of this report, check the Report file in the folder of this Portfolio
 
