@@ -30,9 +30,13 @@ sales?
 I followed this approach in modelling the solution above for the business challenge:
 
 Business Understanding
+
 Data Preparation
+
 Data Exploration & Analysis
+
 Data Visualization
+
 Business Recommendation
 
 ## Business Understanding
