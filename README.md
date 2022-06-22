@@ -60,7 +60,7 @@ In preparing the data the first step taken was to Prepare the Excel workbook, en
 
 ~ Ronald Coase
 
-After cleaning the data and preparing it, Exploratory Data Analysis (EDA) was then performed on the data to gather insights that will be useful help the Management  make Informed decision About the Business Problem
+After cleaning the data and preparing it, Exploratory Data Analysis (EDA) was then performed on the data to gather insights that will be useful to help the Management  make Informed decision About the Business Problem
 
 ## Insights from the analysis
 
