@@ -54,7 +54,7 @@ It is often said that generally Data Scientists/Data Analysst tend to spend 70% 
 - Data Preparation
 In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is I converted the data set into a Table so as to make it easier to work with and also to create Pivot Tables and Chart. I Renamed the table as *sales*
 
-## Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 *If you torture the data long enough, it will confess to anything*
 
